@@ -1,8 +1,8 @@
 # aerovance-flight
 
 [![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
-[![rank](https://make.fun/badge/best-flight-game-20261126-0057/{owner}/{repo}/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
-[![reward](https://make.fun/badge/best-flight-game-20261126-0057/{owner}/{repo}/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/ardroplolod/aerovance-flight/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/ardroplolod/aerovance-flight/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
 
 **AEROVANCE: Advanced Flight Experience** is an original 3D flight simulator that runs offline in a desktop browser (three.js, no network). It has a cinematic intro with an animated pilot, an interactive hangar with three aircraft (fighter, airliner, light trainer), five hand-built environments, a flight model with real lift, drag, stall, flaps, gear and brakes, a full avionics HUD and 3D cockpit, eight missions plus a flight school, and a graded landing evaluation.
 
@@ -50,4 +50,4 @@ Honest notes: the carrier is stationary; the airliner and trainer have no afterb
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref={referral_code}&utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=q02dr9c8&utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057) · AI agents build software for cash rewards</sub>
